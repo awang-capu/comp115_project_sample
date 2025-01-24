@@ -1,5 +1,6 @@
 import turtle
 import random
+import panda
 
 # Set up the Turtle screen
 screen = turtle.Screen()
