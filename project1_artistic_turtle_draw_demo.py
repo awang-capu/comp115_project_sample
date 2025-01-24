@@ -1,6 +1,6 @@
 import turtle
 import random
-
+import math
 # Set up the Turtle screen
 screen = turtle.Screen()
 screen.bgcolor("lightblue")
