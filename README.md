@@ -52,7 +52,7 @@ Random positions and angles make each execution slightly different, creating a w
 
 ## Screenshots
 
-![Example Output](screenshot.png)
+![Example Output](project1_drawing_dandelions_flying_under_sun.png)
 
 ## License
 
